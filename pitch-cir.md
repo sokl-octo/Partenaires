@@ -20,7 +20,7 @@ Le progrès recherché serait la centralisation de la connaissance, et la possib
 
 *Qualifie le caractère novateur du projet au regard des techniques ou des produits existants sur le marché.*
 
-Il n'existe à ce jour pas de solution regroupant accessibilité et éco-conception. (Le W3C propose des tutoriels)[https://www.w3.org/WAI/tutorials/] pour l'accessibilité. Chaque composant serait précédé de sa justification métier, et c'est vers cela que l'on veut également tendre.
+Il n'existe à ce jour pas de solution regroupant accessibilité et éco-conception. [Le W3C propose des tutoriels](https://www.w3.org/WAI/tutorials/) pour l'accessibilité. Chaque composant serait précédé de sa justification métier, et c'est vers cela que l'on veut également tendre.
 
 # Les ressources
 
@@ -29,7 +29,6 @@ Il n'existe à ce jour pas de solution regroupant accessibilité et éco-concept
 Technologies:
 - Github pour le versioning
 - HTML / CSS / JSS vs VueJS ou ReactJS pour faire nos comparatifs
-*- hébergement etc ?*
 
 # Le processus
 
